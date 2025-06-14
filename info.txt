@@ -1,2 +1,29 @@
 Can Kutlu - 22401911
 My favorite game: Monopoly
+
+commit d12862e863b6bc989c51759c348ad864df093e39 (HEAD -> main, origin/main, origin/HEAD)
+Merge: e37e898 af824ca
+Author: Can Kutlu <cankutlu888@gmail.com>
+Date:   Sat Jun 14 20:57:17 2025 +0300
+
+    Merge pull request #1 from cankutlu1/new_information
+
+    Update info.txt
+
+commit af824cae656d9c2cc33126185a89a20087813088 (origin/new_information)
+Author: Can Kutlu <cankutlu888@gmail.com>
+Date:   Sat Jun 14 20:56:20 2025 +0300
+
+    Update info.txt
+
+commit e37e89862c6a0b17df8bf1c692aaf00c51c48dd6
+Author: Can Kutlu <cankutlu888@gmail.com>
+Date:   Sat Jun 14 20:50:23 2025 +0300
+
+    <Can Kutlu>
+
+commit 819791954af29b8690c894538728bd6c73bbff46
+Author: Can Kutlu <cankutlu888@gmail.com>
+Date:   Sat Jun 14 20:42:15 2025 +0300
+
+    Initial commit
